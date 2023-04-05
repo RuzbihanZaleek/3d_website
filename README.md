@@ -14,3 +14,5 @@ Framer Motion -> Animation in React
 4. npm install -D tailwindcss postcss autoprefixer 
 4. npx tailwindcss init -p
 
+# Run Project
+npm run dev
